@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 My interests are in Software Engineering, Data Sciences (ML, NLP, Computer Vision), and Distributed Systems.
+- 🌱 I’m currently learning Artificial Intelligence and Big Data Systems design, implementation. 
+- 👯 I’m looking to collaborate to build open-sources technologies. 
+- 🤔 I’m looking for help with building intelligent, large-scale adoption productions!
+- 💬 Ask me about building intelligent softwares. 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: When the goal is learning, everyone is a winner. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=royadityak94)
